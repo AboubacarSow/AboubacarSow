@@ -1,7 +1,7 @@
 <h1 align="center">Hi there 👋, I'm Aboubacar Sow</h1>
 
 <p align="center">
-  🎓 Computer Engineering Student at Kocaeli University <br/>
+  🎓 Information Systems Engeneering Student at Kocaeli University <br/>
   💻 Full-Stack Developer | .NET Core • Angular • React • Blazor <br/>
   🌍 Based in Turkey | 🇬🇳 Origin: Guinea <br/>
   🔭 Currently exploring Clean Architecture, Microservices & AI integrations
@@ -19,7 +19,7 @@ I'm a passionate and organized computer engineering student with a deep interest
   - Clean Architecture & Domain-Driven Design
   - SQL Server Internals & Infrastructure
   - Microservices with .NET
-  - Frontend frameworks like Angular & React
+  - Frontend frameworks like Angular & React & Blazor
 
 ---
 
@@ -51,7 +51,7 @@ I'm a passionate and organized computer engineering student with a deep interest
 | **🛍️ [BestStore](https://github.com/AboubacarSow/BestStore)** | E-commerce platform built during my Udemy learning journey | ASP.NET Core MVC, Stripe, EF Core,SendBox |
 | **🧳 BookCar** | Car rental web app with Clean Architecture principles | ASP.NET Core 8 Web API & MVC |
 | **📂 LeaveManagementSystem** | Enterprise-grade leave request management system | ASP.NET Core MVC, Identity, Razor Pages |
-| **📦 Dapper Inventory API** | RESTful API to manage inventory using Dapper ORM | ASP.NET Core API, Dapper |
+| **📦 MediLab_Project** | Fullstack web app to manage inventory using Dapper ORM | ASP.NET Core API, Dapper |
 
 > More projects coming soon! 💡
 
