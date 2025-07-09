@@ -48,7 +48,7 @@ I'm a passionate and organized computer engineering student with a deep interest
 
 | Project | Description | Tech Stack |
 |--------|-------------|------------|
-| **🛍️ [BestStore](https://github.com/AboubacarSow/BestStore)** | E-commerce platform built during my Udemy learning journey | ASP.NET Core MVC, Stripe, EF Core,SendBox |
+| **🛍️ [BestStore](https://github.com/AboubacarSow/BestStore)** | E-commerce platform built during my Udemy learning journey | ASP.NET Core MVC, Stripe, EF Core,SendGrid |
 | **🧳 BookCar** | Car rental web app with Clean Architecture principles | ASP.NET Core 8 Web API & MVC |
 | **📂 LeaveManagementSystem** | Enterprise-grade leave request management system | ASP.NET Core MVC, Identity, Razor Pages |
 | **📦 MediLab_Project** | Fullstack web app to manage inventory using Dapper ORM | ASP.NET Core API, Dapper |
