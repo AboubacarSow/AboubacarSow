@@ -59,12 +59,12 @@ I'm a passionate and organized computer engineering student with a deep interest
 
 ## 🧠 Learning Path
 
-🗓️ **2024 – 2026 Focus**  
+🗓️ **2025 – 2026 Focus**  
 - 📐 Clean Architecture & Microservices with .NET  
+- 🔧 DevOps, CI/CD, Docker, Azure Pipelines
+- 🗃️ Advanced SQL Server Infrastructure  
 - 🧬 AI integration using OpenAI API  
 - 🛡️ Cybersecurity & Networking Fundamentals  
-- 🗃️ Advanced SQL Server Infrastructure  
-- 🔧 DevOps, CI/CD, Docker, Azure Pipelines
 
 ---
 
