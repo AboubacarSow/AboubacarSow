@@ -16,7 +16,7 @@ I'm a passionate and organized computer engineering student with a deep interest
 - 🧠 I love understanding how things work under the hood (especially in databases, architectures, and low-level systems).
 - 🧩 I believe in **learning by building** — every project is a chance to master a new skill.
 - 📚 Currently focused on mastering:
-  - Clean Architecture & Domain-Driven Design
+  - Clean Architecture & Domain-Driven Design & Test Driven Design (TDD)
   - SQL Server Internals & Infrastructure
   - Microservices with .NET
   - Frontend frameworks like Angular & React & Blazor
@@ -52,6 +52,7 @@ I'm a passionate and organized computer engineering student with a deep interest
 | **🧳 BookCar** | Car rental web app with Clean Architecture principles | ASP.NET Core 8 Web API & MVC |
 | **📂 LeaveManagementSystem** | Enterprise-grade leave request management system | ASP.NET Core MVC, Identity, Razor Pages |
 | **📦 MediLab_Project** | Fullstack web app to manage inventory using Dapper ORM | ASP.NET Core API, Dapper |
+| **🍽️ [Restaurants API](https://github.com/AboubacarSow/Restaurants)** | Fullstack web app to manage designed to manage restaurants and their associated data | ASP.NET Core API, EFCORE Clean Architecture |
 
 > More projects coming soon! 💡
 
