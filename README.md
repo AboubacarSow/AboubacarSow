@@ -2,7 +2,7 @@
 
 <p align="center">
   🎓 Information Systems Engeneering Student at Kocaeli University <br/>
-  💻 Full-Stack Developer | .NET Core • Angular • React • Blazor <br/>
+  💻    .NET Developer <br/>
   🌍 Based in Turkey | 🇬🇳 Origin: Guinea <br/>
   🔭 Currently exploring Clean Architecture, Microservices & AI integrations
 </p>
