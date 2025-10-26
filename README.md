@@ -4,7 +4,7 @@
   🎓 Information Systems Engeneering Student at Kocaeli University <br/>
   💻    .NET Developer <br/>
   🌍 Based in Turkey | 🇬🇳 Origin: Guinea <br/>
-  🔭 Currently exploring Clean Architecture, Microservices & AI integrations
+  🔭 Currently exploring Clean Architecture, Microservices , AI integrations, ROS-Robot Operating System & Game Development in Unity
 </p>
 
 ---
