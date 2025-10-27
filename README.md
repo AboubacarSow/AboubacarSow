@@ -1,4 +1,4 @@
-<h1 align="center">Hi there 👋, I'm **Aboubacar** </h1>
+<h1 align="center">Hi there 👋, I'm *Aboubacar* </h1>
 
 <p align="center">
   🎓 Information Systems Engeneering Student at Kocaeli University <br/>
