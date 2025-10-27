@@ -1,4 +1,4 @@
-<h1 align="center">Hi there 👋, I'm Aboubacar Sow</h1>
+<h1 align="center">Hi there 👋, I'm **Aboubacar** </h1>
 
 <p align="center">
   🎓 Information Systems Engeneering Student at Kocaeli University <br/>
@@ -11,9 +11,9 @@
 
 ## 🚀 About Me
 
-I'm a passionate and organized computer engineering student with a deep interest in building scalable, maintainable software systems.
+I'm a passionate and organized computer engineering student with a deep interest in building scalable, maintainable software systems and open source contributor
 
-- 🧠 I love understanding how things work under the hood (especially in databases, architectures, and low-level systems).
+- 🧠 I love understanding how things work under the hood (especially in databases, architectures, and low-level systems like operating system, network applications).
 - 🧩 I believe in **learning by building** — every project is a chance to master a new skill.
 - 📚 Currently focused on mastering:
   - Clean Architecture & Domain-Driven Design & Test Driven Design (TDD)
