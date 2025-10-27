@@ -1,8 +1,8 @@
-<h1 align="center">Hi there 👋, I'm *Aboubacar* </h1>
+<h1 align="center">Hi there 👋, I'm Aboubacar </h1>
 
 <p align="center">
   🎓 Information Systems Engeneering Student at Kocaeli University <br/>
-  💻    .NET Developer <br/>
+  💻    .NET & ROS Developer  <br/>
   🌍 Based in Turkey | 🇬🇳 Origin: Guinea <br/>
   🔭 Currently exploring Clean Architecture, Microservices , AI integrations, ROS-Robot Operating System & Game Development in Unity
 </p>
@@ -11,7 +11,7 @@
 
 ## 🚀 About Me
 
-I'm a passionate and organized computer engineering student with a deep interest in building scalable, maintainable software systems and open source contributor
+I'm a passionate and organized computer engineering student with a deep interest in building scalable, maintainable software systems and open source contributor.
 
 - 🧠 I love understanding how things work under the hood (especially in databases, architectures, and low-level systems like operating system, network applications).
 - 🧩 I believe in **learning by building** — every project is a chance to master a new skill.
