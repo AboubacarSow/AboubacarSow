@@ -58,7 +58,7 @@ I'm a passionate and organized computer engineering student with a deep interest
 | **📂 LeaveManagementSystem** | Enterprise-grade leave request management system | ASP.NET Core MVC, Identity, Razor Pages |
 | **📦 MediLab_Project** | Fullstack web app to manage inventory using Dapper ORM | ASP.NET Core API, Dapper |
 | **🍽️ [Restaurants API](https://github.com/AboubacarSow/Restaurants)** | Fullstack application to manage restaurants and related data | ASP.NET Core API, EF Core, Clean Architecture |
-| **🏬 [Eshop Modular Monolith](https://github.com/AboubacarSow/eshopmodularmonolith)** | Modular monolithic e-commerce system following domain-driven design principles | ASP.NET Core, Modular Monolith Architecture |
+| **🏬 [Eshop Modular Monolith](https://github.com/AboubacarSow/EshopModularMonoliths)** | Modular monolithic e-commerce system following domain-driven design principles | ASP.NET Core, Modular Monolith Architecture |
 | **🎮 [DayPay Game](https://github.com/AboubacarSow/daypay-game)** | Third-person shooter academic project with gameplay, AI, and level mechanics | Unity, C# |
 
 > More projects coming soon! 💡
