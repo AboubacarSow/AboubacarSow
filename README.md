@@ -26,6 +26,7 @@ I'm a passionate and organized computer engineering student with a deep interest
 ## 🛠️ Tech Stack
 
 **Languages:**  
+![C](https://img.shields.io/badge/C-A8B9CC?style=flat&logo=c&logoColor=black)
 ![C#](https://img.shields.io/badge/C%23-239120?style=flat&logo=c-sharp&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
@@ -52,11 +53,13 @@ I'm a passionate and organized computer engineering student with a deep interest
 
 | Project | Description | Tech Stack |
 |--------|-------------|------------|
-| **🛍️ [BestStore](https://github.com/AboubacarSow/BestStore)** | E-commerce platform built during my Udemy learning journey | ASP.NET Core MVC, Stripe, EF Core,SendGrid |
+| **🛍️ [BestStore](https://github.com/AboubacarSow/BestStore)** | E-commerce platform built during my Udemy learning journey | ASP.NET Core MVC, Stripe, EF Core, SendGrid |
 | **🧳 BookCar** | Car rental web app with Clean Architecture principles | ASP.NET Core 8 Web API & MVC |
 | **📂 LeaveManagementSystem** | Enterprise-grade leave request management system | ASP.NET Core MVC, Identity, Razor Pages |
 | **📦 MediLab_Project** | Fullstack web app to manage inventory using Dapper ORM | ASP.NET Core API, Dapper |
-| **🍽️ [Restaurants API](https://github.com/AboubacarSow/Restaurants)** | Fullstack web app to manage designed to manage restaurants and their associated data | ASP.NET Core API, EFCORE Clean Architecture |
+| **🍽️ [Restaurants API](https://github.com/AboubacarSow/Restaurants)** | Fullstack application to manage restaurants and related data | ASP.NET Core API, EF Core, Clean Architecture |
+| **🏬 [Eshop Modular Monolith](https://github.com/AboubacarSow/eshopmodularmonolith)** | Modular monolithic e-commerce system following domain-driven design principles | ASP.NET Core, Modular Monolith Architecture |
+| **🎮 [DayPay Game](https://github.com/AboubacarSow/daypay-game)** | Third-person shooter academic project with gameplay, AI, and level mechanics | Unity, C# |
 
 > More projects coming soon! 💡
 
