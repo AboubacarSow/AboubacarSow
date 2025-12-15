@@ -34,6 +34,7 @@ I'm a passionate and organized computer engineering student with a deep interest
 **Frameworks / Libraries:**  
 ![.NET Core](https://img.shields.io/badge/.NET-512BD4?style=flat&logo=dotnet&logoColor=white)
 ![Blazor](https://img.shields.io/badge/Blazor-512BD4?style=flat&logo=blazor&logoColor=white)
+![ROS 2](https://img.shields.io/badge/ROS_2-000000?style=flat&logo=ros&logoColor=white)
 
 **Tools / DevOps:**  
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
