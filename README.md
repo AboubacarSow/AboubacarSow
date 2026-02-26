@@ -43,6 +43,7 @@ I believe in **learning by building** — every project is a bridge to deeper ma
 ### ⚙️ Frameworks / Libraries
 ![.NET Core](https://img.shields.io/badge/-.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
 ![Blazor](https://img.shields.io/badge/-Blazor-512BD4?style=for-the-badge&logo=blazor&logoColor=white)
+![Angular](https://img.shields.io/badge/-Angular-777?style=for-the-badge&logo=angular&logoColor=red)
 ![ROS 2](https://img.shields.io/badge/-ROS_2-000000?style=for-the-badge&logo=ros&logoColor=white)
 ![Unity](https://img.shields.io/badge/-Unity-000000?style=for-the-badge&logo=unity&logoColor=white)
 
@@ -109,4 +110,3 @@ I believe in **learning by building** — every project is a bridge to deeper ma
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com?user=AboubacarSow&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </p>
-
