@@ -4,7 +4,7 @@
 <h3 align="center">🎓 Information Systems Engineering Student at <a href="https://www.kocaeli.edu.tr/">Kocaeli University</a></h3>
 
 <p align="center">
-  💻 .NET & Backend-Focused Developer | 🌍 Based in Turkey 🇹🇷 | 🌱 Origin: Guinea 🇬🇳 <br/>
+  💻 .NET Engineer | 🌍 Based in Turkey 🇹🇷 | 🌱 Origin: Guinea 🇬🇳 <br/>
   🔭 Exploring <b>Clean Architecture</b>, <b>Distributed Systems</b>, <b>AI Integrations</b>, <b>ROS (Robot Operating System)</b>, & <b>Game Dev with Unity</b>
 </p>
 
@@ -27,8 +27,8 @@ I believe in **learning by building** — every project is a bridge to deeper ma
 - 🧱 **Clean Architecture**, **Domain-Driven Design (DDD)**, **Test-Driven Development (TDD)**  
 - 🗃️ **SQL Server Internals**, Database Indexing & Optimization  
 - ⚙️ **Microservices Architecture** & **Distributed Systems** with .NET  
-- 🌐 Frontend Tools: **React**, **Angular**, **Blazor**  
-- 🤖 **AI Integrations** using **OpenAI APIs**  
+- 🌐 Frontend Tools: **Angular**, **Blazor**  
+- 🤖 **AI Integrations**   
 
 ---
 
@@ -67,7 +67,13 @@ I believe in **learning by building** — every project is a bridge to deeper ma
 | **[Simple Message Broker](https://github.com/AboubacarSow/simple-message-broker)** | **System Internals**: Implementing custom Pub/Sub messaging patterns from scratch. | .NET Minimal API, Console App |
 | **[Restaurants API](https://github.com/AboubacarSow/Restaurants)** | **Clean Architecture**: Industry-standard implementation with Onion layering. | ASP.NET Core, EF Core, FluentValidation |
 
+### ⚡ Real-Time Systems & Communication
 
+*Exploring low-latency communication, message streaming, and event-driven architectures.*
+
+| Project | Key Focus | Tech Stack |
+| :--- | :--- | :--- |
+| **[WebSocket Server](https://github.com/AboubacarSow/webSocket-server)** | **Real-Time Communication**: Implementing persistent bidirectional communication using WebSockets, message broadcasting, and connection management. | ASP.NET Core, WebSockets, C# |
 
 ### 🧪 Algorithms & Advanced Logic
 *Applying Computer Science fundamentals to solve complex data problems.*
@@ -104,7 +110,7 @@ I believe in **learning by building** — every project is a bridge to deeper ma
 ---
 
 <p align="center">
-  <b>💻 Code with Discipline • Learn with Curiosity • Build with Purpose 🚀</b>
+  <b>💻 Code with Discipline • Learn with Curiosity • Build with Purpose </b>
 </p>
 
 <p align="center">
