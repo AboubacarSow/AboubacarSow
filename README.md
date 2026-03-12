@@ -74,6 +74,8 @@ I believe in **learning by building** — every project is a bridge to deeper ma
 | Project | Key Focus | Tech Stack |
 | :--- | :--- | :--- |
 | **[WebSocket Server](https://github.com/AboubacarSow/webSocket-server)** | **Real-Time Communication**: Implementing persistent bidirectional communication using WebSockets, message broadcasting, and connection management. | ASP.NET Core, WebSockets, C# |
+| **[Mini RPC Engine](https://github.com/AboubacarSow/mini-rpc-engine)** | **Distributed Communication**: Building a minimal Remote Procedure Call framework from scratch with TCP transport, request dispatching, and JSON-based serialization. | C#, TCP Sockets, .NET |
+
 
 ### 🧪 Algorithms & Advanced Logic
 *Applying Computer Science fundamentals to solve complex data problems.*
