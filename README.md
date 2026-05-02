@@ -1,120 +1,259 @@
-<!-- Profile Header -->
-<h1 align="center">👋 Hi there, I'm <span style="color:#4B9CD3;">Aboubacar Sow</span></h1>
+<!-- ============================================================
+     ABOUBACAR SOW — GitHub Profile README
+     ============================================================ -->
 
-<h3 align="center">🎓 Information Systems Engineering Student at <a href="https://www.kocaeli.edu.tr/">Kocaeli University</a></h3>
+<div align="center">
 
-<p align="center">
-  💻 .NET Engineer | 🌍 Based in Turkey 🇹🇷 | 🌱 Origin: Guinea 🇬🇳 <br/>
-  🔭 Exploring <b>Clean Architecture</b>, <b>Distributed Systems</b>, <b>AI Integrations</b>, <b>ROS (Robot Operating System)</b>, & <b>Game Dev with Unity</b>
-</p>
+```
+╔══════════════════════════════════════════════════════════════╗
+║                                                              ║
+║        ██████╗  ██████╗ ██╗    ██╗                           ║
+║       ██╔════╝ ██╔═══██╗██║    ██║                           ║
+║       ███████╗ ██║   ██║██║ █╗ ██║                           ║
+║       ╚════██║ ██║   ██║██║███╗██║                           ║
+║       ██████╔╝ ╚██████╔╝╚███╔███╔╝                           ║
+║       ╚═════╝   ╚═════╝  ╚══╝╚══╝                            ║
+║                                                              ║
+║           [ ABOUBACAR SOW — SYSTEMS ENGINEER ]               ║
+║        From the Metal to the Application Layer               ║
+║                                                              ║
+╚══════════════════════════════════════════════════════════════╝
+```
 
----
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=14&duration=3000&pause=800&color=00FF41&center=true&vCenter=true&width=600&lines=.NET+Engineer+%7C+Distributed+Systems;Clean+Architecture+%7C+DDD+%7C+TDD;From+bare+metal+to+high-level+design;Building+with+discipline%2C+purpose+%26+depth)
 
-## 🔍 About Me
-
-I’m a passionate and disciplined engineer who loves designing scalable, maintainable, and well-architected systems.  
-I believe in **learning by building** — every project is a bridge to deeper mastery.
-
-💡 **Key Principles:**
-- 🧠 Dive deep into system internals — databases, software architecture, networking & operating systems  
-- 🧩 Focus on **Clean Code**, **SOLID Principles**, and **engineering craftsmanship**  
-- 🏗️ Craft meaningful software with long-lasting architectural soundness  
-
----
-
-## 📚 Currently Mastering
-
-- 🧱 **Clean Architecture**, **Domain-Driven Design (DDD)**, **Test-Driven Development (TDD)**  
-- 🗃️ **SQL Server Internals**, Database Indexing & Optimization  
-- ⚙️ **Microservices Architecture** & **Distributed Systems** with .NET  
-- 🌐 Frontend Tools: **Angular**, **Blazor**  
-- 🤖 **AI Integrations**   
+</div>
 
 ---
 
-## 🛠️ Tech Stack
+```bash
+$ whoami
+```
 
-### 💻 Languages
+```
+> aboubacar_sow
+  ├── role        : .NET Engineer & Information Systems Student
+  ├── university  : Kocaeli University 🇹🇷
+  ├── origin      : Guinea 🇬🇳
+  ├── mission     : Own the full stack — from bare metal to the application layer
+  └── philosophy  : "Don't just use the framework. Understand what it's built on."
+```
+
+---
+
+```bash
+$ cat VISION.md
+```
+
+```
+╔═══════════════════════════════════════════════════════════╗
+║              THE FULL-STACK OWNERSHIP MODEL               ║
+╠══════════════════╦══════════════════════════╦═════════════╣
+║ LAYER            ║ DOMAIN                   ║ STATUS      ║
+╠══════════════════╬══════════════════════════╬═════════════╣
+║ ⚡ Metal         ║ CPU, Memory, Circuits    ║ [EXPLORING] ║
+║ 🖥  OS & Systems ║ Scheduling, Networking   ║ [DEEPENING] ║
+║ 🗃  Data Layer   ║ Internals, Indexing, SQL ║ [ACTIVE]    ║
+║ 🔧 Runtime/Infra ║ Docker, Azure, CI/CD     ║ [ACTIVE]    ║
+║ 🏗  Architecture ║ DDD, Microservices, CQRS ║ [CORE]      ║
+║ 🌐 Application   ║ .NET, APIs, AI, Angular  ║ [CORE]      ║
+╚══════════════════╩══════════════════════════╩═════════════╝
+
+A true engineer doesn't stop at the framework.
+They trace every abstraction down to the transistor.
+```
+
+---
+
+```bash
+$ ls -la skills/
+```
+
+**Languages**
+
 ![C](https://img.shields.io/badge/-C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)
 ![C#](https://img.shields.io/badge/-C%23-512BD4?style=for-the-badge&logo=c-sharp&logoColor=white)
+![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 
-### ⚙️ Frameworks / Libraries
-![.NET Core](https://img.shields.io/badge/-.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+**Frameworks**
+
+![.NET](https://img.shields.io/badge/-.NET_9-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+![FastAPI](https://img.shields.io/badge/-FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
 ![Blazor](https://img.shields.io/badge/-Blazor-512BD4?style=for-the-badge&logo=blazor&logoColor=white)
-![Angular](https://img.shields.io/badge/-Angular-777?style=for-the-badge&logo=angular&logoColor=red)
+![Angular](https://img.shields.io/badge/-Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
 ![ROS 2](https://img.shields.io/badge/-ROS_2-000000?style=for-the-badge&logo=ros&logoColor=white)
 ![Unity](https://img.shields.io/badge/-Unity-000000?style=for-the-badge&logo=unity&logoColor=white)
 
-### 🧰 Tools / DevOps
-![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+**Infrastructure & DevOps**
+
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Azure](https://img.shields.io/badge/-Azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white)
-![IIS](https://img.shields.io/badge/-IIS-0078D4?style=for-the-badge&logo=windows&logoColor=white)
+![RabbitMQ](https://img.shields.io/badge/-RabbitMQ-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white)
+![gRPC](https://img.shields.io/badge/-gRPC-244C5A?style=for-the-badge)
 ![GitHub Actions](https://img.shields.io/badge/-GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
+![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
 ---
 
-## 📂 Featured Engineering Projects
+```bash
+$ cat current_focus.log
+```
 
-### 🏗️ Enterprise Architecture & Distributed Systems
-*Focusing on scalability, maintainability, and complex domain logic.*
-
-| Project | Key Focus | Tech Stack |
-| :--- | :--- | :--- |
-| **[Eshop Modular Monolith](https://github.com/AboubacarSow/EshopModularMonoliths)** | **Domain-Driven Design (DDD)**, Module Isolation, and Bounded Contexts. | .NET 8, MediatR, PostgreSQL |
-| **[Simple Message Broker](https://github.com/AboubacarSow/simple-message-broker)** | **System Internals**: Implementing custom Pub/Sub messaging patterns from scratch. | .NET Minimal API, Console App |
-| **[Restaurants API](https://github.com/AboubacarSow/Restaurants)** | **Clean Architecture**: Industry-standard implementation with Onion layering. | ASP.NET Core, EF Core, FluentValidation |
-
-### ⚡ Real-Time Systems & Communication
-
-*Exploring low-latency communication, message streaming, and event-driven architectures.*
-
-| Project | Key Focus | Tech Stack |
-| :--- | :--- | :--- |
-| **[WebSocket Server](https://github.com/AboubacarSow/webSocket-server)** | **Real-Time Communication**: Implementing persistent bidirectional communication using WebSockets, message broadcasting, and connection management. | ASP.NET Core, WebSockets, C# |
-| **[Mini RPC Engine](https://github.com/AboubacarSow/mini-rpc-engine)** | **Distributed Communication**: Building a minimal Remote Procedure Call framework from scratch with TCP transport, request dispatching, and JSON-based serialization. | C#, TCP Sockets, .NET |
-
-
-### 🧪 Algorithms & Advanced Logic
-*Applying Computer Science fundamentals to solve complex data problems.*
-
-| Project | Key Focus | Tech Stack |
-| :--- | :--- | :--- |
-| **[Social Network Analysis](https://github.com/AboubacarSow/yazlab-proje-II)** | **Graph Theory**: Implementing BFS/DFS for relationship visualization and analysis. | .NET Clean Arch, Angular, D3.js |
-| **[DayPay Game](https://github.com/AboubacarSow/daypay-game)** | **AI Systems**: Finite State Machines (FSM) and Pathfinding for NPC behavior. | Unity, C#, NavMesh |
-| **[GraphQL TS Server](https://github.com/AboubacarSow/graphQL-ts-server)** | **Query Optimization**: Strongly-typed schema design and efficient data fetching. | TypeScript, Apollo Server, Express |
-
-🧠 *More architecture-driven projects are coming soon… Stay tuned!*
+```
+[MASTERING]  Clean Architecture · Domain-Driven Design · TDD
+[MASTERING]  Microservices & Distributed Systems with .NET
+[DEEPENING]  SQL Server Internals · Query Optimization · Indexing
+[EXPLORING]  OS Internals · Computer Architecture · Systems Programming
+[BUILDING]   AI-driven Applications · OpenAI · ML.NET
+[HARDENING]  Cybersecurity · Networking Foundations
+```
 
 ---
 
-## 🧭 2025–2026 Engineering Roadmap
+```bash
+$ cat projects/index.json | jq '.featured'
+```
 
-- 🏗️ Advanced **Clean Architecture** & **Distributed Systems**  
-- 🚀 **DevOps**, **CI/CD Pipelines**, **Docker**, **Azure Cloud**  
-- ⚡ Deep dive into **SQL Server Internals** & **Performance Optimization**  
-- 🤖 **AI-driven Applications** with **OpenAI & ML.NET**  
-- 🛡️ Strengthening **Cybersecurity** & **Networking Foundations**
+### `// DISTRIBUTED SYSTEMS & ENTERPRISE ARCHITECTURE`
+
+```
+┌─────────────────────────────────────────────────────────────────────┐
+│ 🧩  TASK MANAGEMENT MICROSERVICE SYSTEM                             │
+│     github.com/AboubacarSow/task-management-system                  │
+├─────────────────────────────────────────────────────────────────────┤
+│ Production-grade distributed platform · 6 independent services      │
+│                                                                      │
+│ ► OAuth2 / OIDC auth via Duende IdentityServer                      │
+│ ► gRPC for typed, low-latency internal RPC                          │
+│ ► RabbitMQ for async, decoupled event-driven workflows              │
+│ ► CQRS with MediatR · DDD aggregates · Project state machine        │
+│ ► AI agent (llama3.2 via Ollama) — task suggestion & descriptions   │
+│ ► Full observability: ELK stack · Prometheus · Grafana · k6         │
+│ ► 376 passing tests across xUnit & pytest                           │
+│                                                                      │
+│ STACK: .NET 9 · FastAPI · MongoDB · RabbitMQ · gRPC                 │
+│        Docker Compose · Ocelot · Ollama · k6 · InfluxDB             │
+└─────────────────────────────────────────────────────────────────────┘
+
+┌─────────────────────────────────────────────────────────────────────┐
+│ 🏪  ESHOP MODULAR MONOLITH                                          │
+│     github.com/AboubacarSow/EshopModularMonoliths                   │
+├─────────────────────────────────────────────────────────────────────┤
+│ ► Domain-Driven Design · Bounded Contexts · Module Isolation        │
+│ STACK: .NET 8 · MediatR · PostgreSQL                                │
+└─────────────────────────────────────────────────────────────────────┘
+
+┌─────────────────────────────────────────────────────────────────────┐
+│ 📨  SIMPLE MESSAGE BROKER                                           │
+│     github.com/AboubacarSow/simple-message-broker                   │
+├─────────────────────────────────────────────────────────────────────┤
+│ ► Custom Pub/Sub messaging built from scratch (system internals)    │
+│ STACK: .NET Minimal API · Console App                               │
+└─────────────────────────────────────────────────────────────────────┘
+
+┌─────────────────────────────────────────────────────────────────────┐
+│ 🍽  RESTAURANTS API                                                 │
+│     github.com/AboubacarSow/Restaurants                             │
+├─────────────────────────────────────────────────────────────────────┤
+│ ► Clean Architecture · Onion layering · Industry-standard patterns  │
+│ STACK: ASP.NET Core · EF Core · FluentValidation                    │
+└─────────────────────────────────────────────────────────────────────┘
+```
+
+### `// REAL-TIME SYSTEMS & LOW-LEVEL COMMUNICATION`
+
+```
+┌─────────────────────────────────────────────────────────────────────┐
+│ 🔌  WEBSOCKET SERVER                                                │
+│     github.com/AboubacarSow/webSocket-server                        │
+├─────────────────────────────────────────────────────────────────────┤
+│ ► Persistent bidirectional communication · Broadcasting · Mgmt      │
+│ STACK: ASP.NET Core · WebSockets · C#                               │
+└─────────────────────────────────────────────────────────────────────┘
+
+┌─────────────────────────────────────────────────────────────────────┐
+│ ⚙️   MINI RPC ENGINE                                                │
+│     github.com/AboubacarSow/mini-rpc-engine                         │
+├─────────────────────────────────────────────────────────────────────┤
+│ ► Custom RPC framework · TCP transport · JSON serialization         │
+│ STACK: C# · TCP Sockets · .NET                                      │
+└─────────────────────────────────────────────────────────────────────┘
+```
+
+### `// ALGORITHMS & ADVANCED LOGIC`
+
+```
+┌─────────────────────────────────────────────────────────────────────┐
+│ 🔗  SOCIAL NETWORK ANALYSIS                                         │
+│     github.com/AboubacarSow/yazlab-proje-II                         │
+├─────────────────────────────────────────────────────────────────────┤
+│ ► Graph Theory · BFS/DFS · Relationship visualization               │
+│ STACK: .NET Clean Arch · Angular · D3.js                            │
+└─────────────────────────────────────────────────────────────────────┘
+
+┌─────────────────────────────────────────────────────────────────────┐
+│ 🎮  DAYPAY GAME                                                     │
+│     github.com/AboubacarSow/daypay-game                             │
+├─────────────────────────────────────────────────────────────────────┤
+│ ► AI Systems · Finite State Machines · NPC Pathfinding              │
+│ STACK: Unity · C# · NavMesh                                         │
+└─────────────────────────────────────────────────────────────────────┘
+
+┌─────────────────────────────────────────────────────────────────────┐
+│ 📡  GRAPHQL TS SERVER                                               │
+│     github.com/AboubacarSow/graphQL-ts-server                       │
+├─────────────────────────────────────────────────────────────────────┤
+│ ► Strongly-typed schema · Query optimization · Efficient fetching   │
+│ STACK: TypeScript · Apollo Server · Express                         │
+└─────────────────────────────────────────────────────────────────────┘
+```
 
 ---
 
-## 🌐 Connect With Me
+```bash
+$ cat roadmap/2025-2026.md
+```
 
-<p align="center">
-  <a href="https://linkedin.com/in/aboubacar-sow-853a7b25b"><img alt="LinkedIn" src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="https://github.com/AboubacarSow?tab=repositories"><img alt="GitHub" src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
-</p>
-
-<p align="center">📩 Let's collaborate, innovate, and build something meaningful together 🌍</p>
+```
+PRIORITY QUEUE — 2025/2026
+══════════════════════════════════════════════════
+ [1] OS Internals · Computer Architecture · Systems Programming
+ [2] Advanced Clean Architecture & Distributed Systems
+ [3] DevOps · CI/CD · Docker · Azure Cloud
+ [4] SQL Server Internals & Performance Optimization
+ [5] AI-driven Applications — OpenAI & ML.NET
+ [6] Cybersecurity & Networking Foundations
+ [∞] Master every layer — metal to application
+══════════════════════════════════════════════════
+```
 
 ---
 
-<p align="center">
-  <b>💻 Code with Discipline • Learn with Curiosity • Build with Purpose </b>
-</p>
+```bash
+$ cat connect.sh
+```
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=AboubacarSow&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-</p>
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/aboubacar-sow-853a7b25b)
+[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/AboubacarSow?tab=repositories)
+
+</div>
+
+---
+
+<div align="center">
+
+```
+> "Don't just use the abstraction. Own what's underneath it."
+
+  ████████████████████████████████████████████████████████████
+  █  🔩 Metal  ──►  🖥 OS  ──►  🗃 Data  ──►  🏗 Arch  ──►  🌐 App  █
+  ████████████████████████████████████████████████████████████
+```
+
+<img src="https://github-readme-streak-stats.herokuapp.com?user=AboubacarSow&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+
+</div>
