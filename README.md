@@ -22,6 +22,10 @@
 
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=14&duration=3000&pause=800&color=00FF41&center=true&vCenter=true&width=600&lines=.NET+Engineer+%7C+Distributed+Systems;Clean+Architecture+%7C+DDD+%7C+TDD;From+bare+metal+to+high-level+design;Building+with+discipline%2C+purpose+%26+depth)
 
+![Profile Views](https://komarev.com/ghpvc/?username=AboubacarSow&color=00FF41&style=flat-square&label=PROFILE+VIEWS)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-000000?style=flat-square&logo=linkedin&logoColor=00FF41)](https://linkedin.com/in/aboubacar-sow-853a7b25b)
+[![GitHub](https://img.shields.io/badge/-GitHub-000000?style=flat-square&logo=github&logoColor=00FF41)](https://github.com/AboubacarSow?tab=repositories)
+
 </div>
 
 ---
@@ -73,6 +77,7 @@ $ ls -la skills/
 
 ![C](https://img.shields.io/badge/-C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)
 ![C#](https://img.shields.io/badge/-C%23-512BD4?style=for-the-badge&logo=c-sharp&logoColor=white)
+![Go](https://img.shields.io/badge/-Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
@@ -80,7 +85,6 @@ $ ls -la skills/
 **Frameworks**
 
 ![.NET](https://img.shields.io/badge/-.NET_9-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
-![FastAPI](https://img.shields.io/badge/-FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
 ![Blazor](https://img.shields.io/badge/-Blazor-512BD4?style=for-the-badge&logo=blazor&logoColor=white)
 ![Angular](https://img.shields.io/badge/-Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
 ![ROS 2](https://img.shields.io/badge/-ROS_2-000000?style=for-the-badge&logo=ros&logoColor=white)
@@ -121,7 +125,7 @@ $ cat projects/index.json | jq '.featured'
 ```
 ┌─────────────────────────────────────────────────────────────────────┐
 │ 🧩  TASK MANAGEMENT MICROSERVICE SYSTEM                             │
-│     github.com/AboubacarSow/task-management-system                  │
+│     github.com/AboubacarSow/task-management-microservice            │
 ├─────────────────────────────────────────────────────────────────────┤
 │ Production-grade distributed platform · 6 independent services      │
 │                                                                      │
@@ -133,10 +137,14 @@ $ cat projects/index.json | jq '.featured'
 │ ► Full observability: ELK stack · Prometheus · Grafana · k6         │
 │ ► 376 passing tests across xUnit & pytest                           │
 │                                                                      │
-│ STACK: .NET 9 · FastAPI · MongoDB · RabbitMQ · gRPC                 │
+│ STACK: .NET 9 · MongoDB · RabbitMQ · gRPC                           │
 │        Docker Compose · Ocelot · Ollama · k6 · InfluxDB             │
 └─────────────────────────────────────────────────────────────────────┘
+```
+![Stars](https://img.shields.io/github/stars/AboubacarSow/task-management-microservice?style=flat-square&color=00FF41&labelColor=000000)
+![Last Commit](https://img.shields.io/github/last-commit/AboubacarSow/task-management-microservice?style=flat-square&color=00FF41&labelColor=000000)
 
+```
 ┌─────────────────────────────────────────────────────────────────────┐
 │ 🏪  ESHOP MODULAR MONOLITH                                          │
 │     github.com/AboubacarSow/EshopModularMonoliths                   │
@@ -144,7 +152,11 @@ $ cat projects/index.json | jq '.featured'
 │ ► Domain-Driven Design · Bounded Contexts · Module Isolation        │
 │ STACK: .NET 8 · MediatR · PostgreSQL                                │
 └─────────────────────────────────────────────────────────────────────┘
+```
+![Stars](https://img.shields.io/github/stars/AboubacarSow/EshopModularMonoliths?style=flat-square&color=00FF41&labelColor=000000)
+![Last Commit](https://img.shields.io/github/last-commit/AboubacarSow/EshopModularMonoliths?style=flat-square&color=00FF41&labelColor=000000)
 
+```
 ┌─────────────────────────────────────────────────────────────────────┐
 │ 📨  SIMPLE MESSAGE BROKER                                           │
 │     github.com/AboubacarSow/simple-message-broker                   │
@@ -152,7 +164,11 @@ $ cat projects/index.json | jq '.featured'
 │ ► Custom Pub/Sub messaging built from scratch (system internals)    │
 │ STACK: .NET Minimal API · Console App                               │
 └─────────────────────────────────────────────────────────────────────┘
+```
+![Stars](https://img.shields.io/github/stars/AboubacarSow/simple-message-broker?style=flat-square&color=00FF41&labelColor=000000)
+![Last Commit](https://img.shields.io/github/last-commit/AboubacarSow/simple-message-broker?style=flat-square&color=00FF41&labelColor=000000)
 
+```
 ┌─────────────────────────────────────────────────────────────────────┐
 │ 🍽  RESTAURANTS API                                                 │
 │     github.com/AboubacarSow/Restaurants                             │
@@ -161,6 +177,8 @@ $ cat projects/index.json | jq '.featured'
 │ STACK: ASP.NET Core · EF Core · FluentValidation                    │
 └─────────────────────────────────────────────────────────────────────┘
 ```
+![Stars](https://img.shields.io/github/stars/AboubacarSow/Restaurants?style=flat-square&color=00FF41&labelColor=000000)
+![Last Commit](https://img.shields.io/github/last-commit/AboubacarSow/Restaurants?style=flat-square&color=00FF41&labelColor=000000)
 
 ### `// REAL-TIME SYSTEMS & LOW-LEVEL COMMUNICATION`
 
@@ -172,7 +190,11 @@ $ cat projects/index.json | jq '.featured'
 │ ► Persistent bidirectional communication · Broadcasting · Mgmt      │
 │ STACK: ASP.NET Core · WebSockets · C#                               │
 └─────────────────────────────────────────────────────────────────────┘
+```
+![Stars](https://img.shields.io/github/stars/AboubacarSow/webSocket-server?style=flat-square&color=00FF41&labelColor=000000)
+![Last Commit](https://img.shields.io/github/last-commit/AboubacarSow/webSocket-server?style=flat-square&color=00FF41&labelColor=000000)
 
+```
 ┌─────────────────────────────────────────────────────────────────────┐
 │ ⚙️   MINI RPC ENGINE                                                │
 │     github.com/AboubacarSow/mini-rpc-engine                         │
@@ -181,8 +203,23 @@ $ cat projects/index.json | jq '.featured'
 │ STACK: C# · TCP Sockets · .NET                                      │
 └─────────────────────────────────────────────────────────────────────┘
 ```
+![Stars](https://img.shields.io/github/stars/AboubacarSow/mini-rpc-engine?style=flat-square&color=00FF41&labelColor=000000)
+![Last Commit](https://img.shields.io/github/last-commit/AboubacarSow/mini-rpc-engine?style=flat-square&color=00FF41&labelColor=000000)
 
 ### `// ALGORITHMS & ADVANCED LOGIC`
+
+```
+┌─────────────────────────────────────────────────────────────────────┐
+│ 🔄  KCODD — RELATIONAL ALGEBRA TO SQL TRANSPILER                    │
+│     github.com/AboubacarSow/kcodd                                   │
+├─────────────────────────────────────────────────────────────────────┤
+│ ► Relational algebra expressions transpiled directly to SQL         │
+│ ► Live playground: kcodd.onrender.com · v1.0.1                      │
+│ STACK: .NET · Blazor · C#                                           │
+└─────────────────────────────────────────────────────────────────────┘
+```
+![Stars](https://img.shields.io/github/stars/AboubacarSow/kcodd?style=flat-square&color=00FF41&labelColor=000000)
+![Last Commit](https://img.shields.io/github/last-commit/AboubacarSow/kcodd?style=flat-square&color=00FF41&labelColor=000000)
 
 ```
 ┌─────────────────────────────────────────────────────────────────────┐
@@ -192,7 +229,11 @@ $ cat projects/index.json | jq '.featured'
 │ ► Graph Theory · BFS/DFS · Relationship visualization               │
 │ STACK: .NET Clean Arch · Angular · D3.js                            │
 └─────────────────────────────────────────────────────────────────────┘
+```
+![Stars](https://img.shields.io/github/stars/AboubacarSow/yazlab-proje-II?style=flat-square&color=00FF41&labelColor=000000)
+![Last Commit](https://img.shields.io/github/last-commit/AboubacarSow/yazlab-proje-II?style=flat-square&color=00FF41&labelColor=000000)
 
+```
 ┌─────────────────────────────────────────────────────────────────────┐
 │ 🎮  DAYPAY GAME                                                     │
 │     github.com/AboubacarSow/daypay-game                             │
@@ -200,7 +241,11 @@ $ cat projects/index.json | jq '.featured'
 │ ► AI Systems · Finite State Machines · NPC Pathfinding              │
 │ STACK: Unity · C# · NavMesh                                         │
 └─────────────────────────────────────────────────────────────────────┘
+```
+![Stars](https://img.shields.io/github/stars/AboubacarSow/daypay-game?style=flat-square&color=00FF41&labelColor=000000)
+![Last Commit](https://img.shields.io/github/last-commit/AboubacarSow/daypay-game?style=flat-square&color=00FF41&labelColor=000000)
 
+```
 ┌─────────────────────────────────────────────────────────────────────┐
 │ 📡  GRAPHQL TS SERVER                                               │
 │     github.com/AboubacarSow/graphQL-ts-server                       │
@@ -209,6 +254,23 @@ $ cat projects/index.json | jq '.featured'
 │ STACK: TypeScript · Apollo Server · Express                         │
 └─────────────────────────────────────────────────────────────────────┘
 ```
+![Stars](https://img.shields.io/github/stars/AboubacarSow/graphQL-ts-server?style=flat-square&color=00FF41&labelColor=000000)
+![Last Commit](https://img.shields.io/github/last-commit/AboubacarSow/graphQL-ts-server?style=flat-square&color=00FF41&labelColor=000000)
+
+---
+
+```bash
+$ neofetch --github
+```
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=AboubacarSow&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00FF41&icon_color=00FF41&text_color=c9d1d9" width="48%" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AboubacarSow&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00FF41&text_color=c9d1d9" width="38%" />
+
+<img src="https://github-profile-trophy.vercel.app/?username=AboubacarSow&theme=tokyonight&no-frame=true&row=1&margin-w=8&column=6" />
+
+</div>
 
 ---
 
@@ -255,5 +317,11 @@ $ cat connect.sh
 ```
 
 <img src="https://github-readme-streak-stats.herokuapp.com?user=AboubacarSow&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+
+```
+$ echo $?
+0
+// process exited cleanly — thanks for reading
+```
 
 </div>
